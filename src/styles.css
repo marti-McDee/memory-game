@@ -1,0 +1,11 @@
+/* styles.css */
+
+.grid {
+    width: 416px;
+    height: 320px;
+    border: solid black 1px;
+}
+
+.card {
+    border: 2px dotted blue;
+}
